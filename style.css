@@ -1,0 +1,17 @@
+body h1{
+    text-align: center;
+}
+.block{
+    display:flex;
+    justify-content: space-between;
+}
+.first{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: blue;
+}
+.second{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color:red;
+}
